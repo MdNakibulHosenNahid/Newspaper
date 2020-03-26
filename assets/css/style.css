@@ -108,7 +108,7 @@ p{
 	cursor:pointer;
 	text-indent:-999999px;
 	border:none;
-	background:url(../../Image/srchIcon.PNG) no-repeat;
+	background:url(./../../Image/srchIcon.PNG) no-repeat;
 	position:absolute;
 	right:25px;
 	top:6px;
